@@ -1,5 +1,11 @@
 ```palette
-#03000a, #7ac3c8, #03000a
+#000, #000516, #6e0000, #823034, #acaeb4, #e0ffff
+```
+![Chronos|700](Assets/Chronos.png)
+<p class="dialogues">By Vyzeny. You are just that much prettier, bloodied and battered.<br>I should've known to tempt you into betraying Him sooner.</p>
+
+```palette
+#e0ffff, #acaeb4, #823034, #6e0000, #000516, #000
 ```
 ```RpgManager4
 id: 
@@ -7,7 +13,7 @@ id:
   campaign: "from the blood of god/from the blood of god.md"
 data: 
   nonplayercharactertype: "supporting"
-  description: "A reprehensible, now fallen angel, being tortured by Cerberus and being mauled in the Canto of the 34th. Born of snow white skin much like Lucifer, but having maintained his pearly-white locks, his sclera have turned obsidian from his fall, the reason for his fall being his betrayal towards his own Lord and guide, Vyzeny."
+  description: "A reprehensible, now fallen angel, being tortured by Cerberus and being mauled in the Canto of the 34th. Born of snow white skin much like Lucifer, but \nwhile having mostly maintained his pearly-white locks, his sclera have turned obsidian from his fall. The reason for his fall was his betrayal towards his own Lord and guide, Vyzeny."
   occupation: "Being mauled in the Canto of the 34th."
   arc: 4
   need: "Recognition from Vyzeny."
@@ -20,6 +26,12 @@ data:
   stake: 7
   pronoun: "he"
 tasks: []
+images: []
+relationships: 
+  - type: "bidirectional"
+    path: "from the blood of god/Chars/Lucifer.md"
+    description: "... No commentary."
 ```
 
 [[from the blood of god/from the blood of god.md|]]
+[[from the blood of god/Chars/Lucifer.md|]]

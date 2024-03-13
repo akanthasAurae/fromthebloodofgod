@@ -1,5 +1,5 @@
 dead: -1 | 1st-2nd Cantos
-	dark woods of Thanatos; Tenebris
+	dark woods of Thanatos; *Tenebris
    recently deceased, guided here
 
 hell's gate: -2 | 2nd Canto

@@ -26,6 +26,9 @@ relationships:
   - type: "bidirectional"
     path: "from the blood of god/Locations/Hell/9.34. Judecca.md"
     description: "Residence"
+  - type: "bidirectional"
+    path: "from the blood of god/Chars/Chronos.md"
+    description: "Plaything! <3"
 ```
 
 [[from the blood of god/Chars/Cerberus.md|]]
