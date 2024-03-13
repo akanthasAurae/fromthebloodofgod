@@ -34,5 +34,5 @@ relationships:
     description: "... No commentary."
 ```
 
-[[from the blood of god/Chars/Lucifer.md|]]
 [[from the blood of god/from the blood of god.md|]]
+[[from the blood of god/Chars/Lucifer.md|]]
