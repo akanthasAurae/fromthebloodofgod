@@ -1,2 +1,0 @@
-# fromthebloodofgod
-Obsi!
