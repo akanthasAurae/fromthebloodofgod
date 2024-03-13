@@ -18,11 +18,8 @@ data:
   beliefs: "He often attempts to gain Práxi's sympathy and pity by agreeing on her stance that gods should be erased, yet falls silent when she sharply reminds him he once yearned to be one."
   behaviour: "Not like he can do much now - but back then, he was extremely intolerant of anything that strayed from the realm of science, math, and totally-not-alchemy, to the point of neglecting even those that sought to care for him."
   stake: 7
-tasks: 
-  - id: "06de1ae8-ab10-4a3d-b1aa-04c9839cf728"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Chronos"
-    type: "creation"
-    status: "proposed"
+  pronoun: "he"
+tasks: []
 ```
+
+[[from the blood of god/from the blood of god.md|]]
