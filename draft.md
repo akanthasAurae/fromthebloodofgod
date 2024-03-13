@@ -102,29 +102,29 @@ falsification: -27 | 29-30th Cantos
    everything begins to lose colour from here and turn colder
 
      ... of metals
-	-35 | 29th Canto | Metallaes
+	-28 | 29th Canto | Metallaes
    has a branch of Malebolge dedicated to boiling alive the souls here
 
      ... of persons, coins, words
-	-36 | 30th Canto | Tabellya
+	-29 | 30th Canto | Tabellya
 
-custo: -37 | 31st Canto
+custo: -30 | 31st Canto
 	tower of illusion; Anteus
    heavily guarded is the tower that leads to the last layer of hell
 
 
 
 
-treachery: -36 | 32nd-34th Cantos
+treachery: -31 | 32nd-34th Cantos
 	frozen river of lamentation; Cocytus
      ...of kin
-	-37 | 32nd Canto | Caïna
+	-39 | 32nd Canto | Caïna
 
      ...of homeland
-	-38 | 32nd & 33rd Canto | Antenora
+	-32 | 32nd & 33rd Canto | Antenora
 
      ...of guests
-	-39 | 33rd Canto | Ptolomea
+	-33 | 33rd Canto | Ptolomea
 
      ... of benefactors
-	-40 | 34th Canto | Judecca
+	-34 | 34th Canto | Judecca
