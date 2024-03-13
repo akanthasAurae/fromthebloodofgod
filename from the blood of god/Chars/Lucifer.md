@@ -31,4 +31,4 @@ relationships:
 [[from the blood of god/Chars/Cerberus.md|]]
 [[from the blood of god/from the blood of god.md|]]
 
-[[from the blood of god/Locations/9.34. Judecca.md|]]
+[[from the blood of god/Locations/Hell/9.34. Judecca.md|]]
