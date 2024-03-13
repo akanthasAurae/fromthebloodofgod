@@ -1,5 +1,12 @@
+
 ```palette
-#6b0215, #ea0f24, #6b0215
+#000000, #260004, #620303, #a02713, #d37428, #ffe398
+```
+![Praxi|700](Assets/Práxiverin.png)
+<p class="dialogues">Tell me, my love. Did you wait for me? Did you believe in me?<br>Did you lose hope I'd come home to you? Am I still the man you loved?</p>
+
+```palette
+#ffe398, #d37428, #a02713, #620303, #260004, #000
 ```
 ```RpgManager4
 id: 
