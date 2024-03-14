@@ -1,5 +1,11 @@
 ```palette
-#03000a, #7ac3c8, #03000a
+#ffd8d8, #947ea5, #08184a, #1b1122, #140004, #000
+```
+![luci|700](Assets/Lucifer.png)
+<p class="dialogues" style="color:#cf1103">For all he's worth, there's nobody here worse than him. I mean it.<br>Nobody's invented the term for what the hell is wrong with him yet.</p>
+
+```palette
+#000, #140004, #1b1122, #08184a, #947ea5, #ffd8d8
 ```
 ```RpgManager4
 id: 

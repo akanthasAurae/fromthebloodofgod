@@ -3,7 +3,7 @@
 #000, #000516, #6e0000, #823034, #acaeb4, #e0ffff
 ```
 ![Chronos|700](Assets/Chronos.png)
-<p class="dialogues">By Vyzeny. You are just that much prettier, bloodied and battered.<br>I should've known to tempt you into betraying Him sooner.</p>
+<p class="dialogues" style="color: #947ea5">By Vyzeny. You are just that much prettier, bloodied and battered.<br>I should've known to tempt you into betraying Him sooner.</p>
 
 ```palette
 #e0ffff, #acaeb4, #823034, #6e0000, #000516, #000
@@ -34,5 +34,5 @@ relationships:
     description: "... No commentary."
 ```
 
-[[from the blood of god/from the blood of god.md|]]
 [[from the blood of god/Chars/Lucifer.md|]]
+[[from the blood of god/from the blood of god.md|]]
