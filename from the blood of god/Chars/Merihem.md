@@ -2,7 +2,7 @@
 #000, #010015, #4e0610, #4d265a, #1e4b9d, #e1eeff
 ```
 ![Meri|700](Assets/Merihem.png)
-<p class="dialogues">An ill-fated life you led, my darling. You're home now.</p>
+<p class="dialogues" style="color:#cf1103">An ill-fated life you led, my darling. You're home now.<br>No matter how bad it gets. I will love you until the end of us.</p>
 
 ```palette
 #e1eeff, #1e4b9d, #4d265a, #4e0610, #010015, #000
