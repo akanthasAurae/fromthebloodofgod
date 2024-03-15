@@ -18,13 +18,7 @@ data:
   opposition: "Fate has something up Her sleeve that'll turn this boredom upside down..."
   behaviour: "Rather cold and sometimes even cruel, but nevertheless she has a regal, sophisticated poise."
   stake: 9
-tasks: 
-  - id: "7b1213dd-ec46-436d-88e9-1c883b1178b8"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Kratos"
-    type: "creation"
-    status: "proposed"
+tasks: []
 ```
 
 [[from the blood of god/from the blood of god.md|]]
