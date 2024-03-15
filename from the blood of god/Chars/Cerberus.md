@@ -9,6 +9,7 @@ id:
 tasks: []
 data: 
   description: "A three-headed hound, born of the mauled souls of Judas, Cassius, and Brutus, whom are now tasked not only with protecting Lucifer for as long as he's stuck in Hell's core, but also doing his job for him (torturing traitors of benefactors, leaders and lords.)"
+  _pronouns: "It/Its | He/She (*depending; used by Lucifer*)"
 relationships: 
   - type: "bidirectional"
     path: "from the blood of god/Chars/Lucifer.md"

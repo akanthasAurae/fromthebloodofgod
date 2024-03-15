@@ -46,7 +46,7 @@ data:
   beliefs: "Violence will occur no matter what, with or without prompting. Only a greater form of violence can silence the lesser."
   behaviour: "Very regal, refined, and sophisticated. Does everything with class and poise."
   stake: 8
-  pronoun: "she"
+  _pronouns: "She/It"
 relationships: 
   - type: "bidirectional"
     path: "from the blood of god/Chars/Merihem.md"

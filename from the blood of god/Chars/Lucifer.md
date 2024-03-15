@@ -25,6 +25,7 @@ data:
   beliefs: "Heaven must be eradicated, no matter the cost."
   behaviour: "Laid-back to a fault, nonchalant. Jaded from millenia after millenia of suffering; numb."
   stake: 10
+  _pronouns: "It/He"
 tasks: []
 relationships: 
   - type: "bidirectional"

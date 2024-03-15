@@ -27,7 +27,7 @@ data:
   beliefs: "His strongest belief is that we live in a world where it's kill or be killed; taken to a literal, overwhelming level, leading him toward a constant chase for growth and power."
   behaviour: "Brash and arrogant, running headfirst into situations at times without much thought whatsoever. Ironically, he finds himself at the helm of mediating situations later on."
   stake: 10
-  pronoun: "he"
+  _pronouns: "He/It"
 tasks: 
   - id: "f163af51-f1a0-40a3-956b-db84425fe67d"
     priority: 2

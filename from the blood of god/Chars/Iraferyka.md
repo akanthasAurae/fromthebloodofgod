@@ -26,7 +26,7 @@ data:
   beliefs: "That love can heal anything and everything, given due time to run its course and wander its hands over the damage."
   behaviour: "Delicate, with care and poise. Every action has affection behind it."
   stake: 5
-  pronoun: "they"
+  _pronouns: "They/Them"
 tasks: []
 ```
 
