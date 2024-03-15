@@ -12,13 +12,7 @@ data:
   strengths: 1704878
   weaknesses: 2314512
   beliefs: "All authorities eventually fall — the beauty of humans is how fallible all of them are."
-tasks: 
-  - id: "9c93d94d-0d74-45a5-b20c-700c2224a8e3"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Supremacy"
-    type: "creation"
-    status: "proposed"
+tasks: []
 ```
 
 
