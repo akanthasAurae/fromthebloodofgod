@@ -27,6 +27,7 @@ data:
   opposition: "Fate has something up Her sleeve that'll turn this boredom upside down..."
   behaviour: "Rather cold and sometimes even cruel, but nevertheless she has a regal, sophisticated poise."
   stake: 9
+  pronoun: "she"
 tasks: []
 ```
 
