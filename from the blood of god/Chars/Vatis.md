@@ -14,7 +14,7 @@ id:
   campaign: "from the blood of god/from the blood of god.md"
 data: 
   nonplayercharactertype: "main"
-  description: "[PLACEHOLDER TEXT]"
+  description: "A feared Spartan warrior, devoted wholly to the cruelty and glory that came with war; and, rather of note, a descendant of the Lycoris."
   occupation: "[PLACEHOLDER TEXT]"
   ghost: "[PLACEHOLDER TEXT]"
   lie: "[PLACEHOLDER TEXT]"
