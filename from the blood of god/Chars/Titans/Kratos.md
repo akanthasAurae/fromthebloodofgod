@@ -1,4 +1,13 @@
 
+```palette
+#000, #000022, #351434, #be1306, #d64d16, #f06e6e, #ffe2e6
+```
+![Kratos|700](Kratos.png)
+<p class="dialogues">Quote from Vatis goes here</p>
+
+```palette
+#ffe2e6, #f06e6e, #d64d16, #be1306, #351434, #000022, #000
+```
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
